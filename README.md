@@ -1,2 +1,3 @@
 # hello-world
+Previously I wrongly typed in Master repository to see changes are commited or not...
 my first repository for my first project
